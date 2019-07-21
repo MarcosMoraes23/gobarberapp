@@ -1,6 +1,6 @@
 # gobarber-rocket
 
-Backend application developed as study and research about node.js and auxiliar libraries
+Application developed as study and research about node.js and auxiliar libraries
 
 ## npm or yarn install
 
